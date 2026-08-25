@@ -1,0 +1,13 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Local datasets and generated intermediate data
+**/data/*.xlsx
+**/data/*.xls
+**/data/*.csv
+**/data/*.tsv
+
+# Keep documentation files inside data folders
+!**/data/README.md

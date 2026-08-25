@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+lightgbm
+optuna
+openpyxl
+jupyter
+holoviews
+hvplot
+missingno
+umap-learn
+scipy
+shap
